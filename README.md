@@ -18,6 +18,12 @@
 | 6  | AddMember | - | ⭕️ |
 | 7  | EditMember | - | ⭕️ |
 | 8  | DeleteMember | - | ⭕️ |
+| 9  | DeleteMember | - | ⭕️ |
+| 10  | AddCategory | - | ⭕️ |
+| 11  | EditCategory | - | ⭕️ |
+| 12  | DeleteCategory | - | ⭕️ |
+| 13  | DeleteMember | - | ⭕️ |
+| 14  | bills | - | ⭕️ |
 <br><br>
 
 <br><br>
