@@ -1,22 +1,4 @@
 
-
-<div align="center">
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/3d7600db-8b96-4e18-94e8-76649d08c071)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/a96e3933-b271-4cd0-8b21-ba0242544362)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/29d2fcdc-dfaf-4acb-ba07-4e27eb9067eb)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/f7589d58-12df-4325-b771-a9169a0b8f65)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/b3895c8a-e8ab-4e6d-b115-32919f8fef96)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/f8dfc079-3023-49eb-b72d-2c29e09e5b60)
-
-![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/d8f1e5a6-53f3-4004-a36a-827618862dd5)
-
-</div>
-
 <div align="center">
 <h1>
     <img alt="MARKDOWN SYNTAX" src="https://github.com/hellOoSaksit/Moondust-Websit/assets/79570387/f806c19a-13f3-40f7-8222-e8fe07c94718"></img>
@@ -175,9 +157,26 @@ INSERT INTO "users" ("user_id", "username", "password", "name", "email", "admin"
 
 ```
 
-<h3>ตัวอย่างการสร้าง</h3>
+<div align="center">
 
-![Screenshot 2024-02-12 031453](https://github.com/hellOoSaksit/Moondust-Websit/assets/79570387/e60ed54c-2394-4da9-ab21-db9cdffd0ee0)
+<h3>ตัวอย่างโปรแกรม</h3>
+ 
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/3d7600db-8b96-4e18-94e8-76649d08c071)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/a96e3933-b271-4cd0-8b21-ba0242544362)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/29d2fcdc-dfaf-4acb-ba07-4e27eb9067eb)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/f7589d58-12df-4325-b771-a9169a0b8f65)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/b3895c8a-e8ab-4e6d-b115-32919f8fef96)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/f8dfc079-3023-49eb-b72d-2c29e09e5b60)
+
+![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/d8f1e5a6-53f3-4004-a36a-827618862dd5)
+
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
