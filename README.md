@@ -1,6 +1,6 @@
 
 
-
+<div align="center">
 ![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/3d7600db-8b96-4e18-94e8-76649d08c071)
 
 ![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/a96e3933-b271-4cd0-8b21-ba0242544362)
@@ -15,12 +15,12 @@
 
 ![image](https://github.com/hellOoSaksit/POS_MoonDust/assets/79570387/d8f1e5a6-53f3-4004-a36a-827618862dd5)
 
+</div>
+
 <div align="center">
 <h1>
     <img alt="MARKDOWN SYNTAX" src="https://github.com/hellOoSaksit/Moondust-Websit/assets/79570387/f806c19a-13f3-40f7-8222-e8fe07c94718"></img>
 </h1>
-
-
 </div>
 
 <h1 align="center">Project Moondust</h1>
