@@ -32,11 +32,12 @@
 
 
 <h2>
-DATABASE NAME : MoonDust
--SQL ที่ใช้งาน : PostgreSQL
-1.สร้าง SQL ชื่อ Moondust
-2.รันไฟล์ SQL
+DATABASE NAME : MoonDust </br>
 </h2>
+-SQL ที่ใช้งาน : PostgreSQL </br>
+1.สร้าง SQL ชื่อ Moondust</br>
+2.รันไฟล์ SQL</br>
+
 
 ```
 
